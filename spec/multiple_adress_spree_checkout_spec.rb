@@ -1,8 +1,8 @@
 require "spec_helper"
 
-RSpec.describe MultipleAdressSpreeCheckout do
+RSpec.describe MultipleAddressSpreeCheckout do
   it "has a version number" do
-    expect(MultipleAdressSpreeCheckout::VERSION).not_to be nil
+    expect(MultipleAddressSpreeCheckout::VERSION).not_to be nil
   end
 
   it "does something useful" do

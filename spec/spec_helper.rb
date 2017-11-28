@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "multiple_adress_spree_checkout"
+require "multiple_address_spree_checkout"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

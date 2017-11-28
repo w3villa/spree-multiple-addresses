@@ -1,6 +1,6 @@
-# MultipleAdressSpreeCheckout
+# MultipleAddressSpreeCheckout
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/multiple_adress_spree_checkout`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/multiple_address_spree_checkout`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
 
@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'multiple_adress_spree_checkout'
+gem 'multiple_address_spree_checkout'
 ```
 
 And then execute:
@@ -18,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install multiple_adress_spree_checkout
+    $ gem install multiple_address_spree_checkout
 
 ## Usage
 
@@ -32,4 +32,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/multiple_adress_spree_checkout.
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/multiple_address_spree_checkout.

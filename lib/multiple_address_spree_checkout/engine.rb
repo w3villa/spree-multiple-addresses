@@ -1,8 +1,8 @@
-module MultipleAdressSpreeCheckout
+module MultipleAddressSpreeCheckout
   class Engine < Rails::Engine
     require 'spree/core'
     isolate_namespace Spree
-    engine_name 'multiple_adress_spree_checkout'
+    engine_name 'multiple_address_spree_checkout'
 
     config.autoload_paths += %W(#{config.root}/lib)
 

@@ -1,16 +1,16 @@
 # coding: utf-8
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "multiple_adress_spree_checkout/version"
+require "multiple_address_spree_checkout/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "multiple_adress_spree_checkout"
-  spec.version       = MultipleAdressSpreeCheckout::VERSION
+  spec.name          = "multiple_address_spree_checkout"
+  spec.version       = MultipleAddressSpreeCheckout::VERSION
   spec.authors       = ["manish rai"]
   spec.email         = ["manish.rai@w3villa.com"]
 
   spec.summary       = %q{complete module for multiple address checkout for spree}
-  spec.description   = %q{This is my First Gem. Just Trying it out.}
+  spec.description   = %q{This is my Second Gem. Just Trying it out.}
   spec.homepage      = ""
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
